@@ -33,5 +33,5 @@ The sample has 3  steps:
 
 
 ## License
-See the LICENSE and THIRD-PARTY for open source license details
+See the LICENSE file
 
