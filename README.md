@@ -33,5 +33,5 @@ The sample has 3  steps:
 
 
 ## License
-See the LICENSE file
+MIT-0 License; please see the LICENSE file
 
